@@ -19,4 +19,3 @@ React: The app is built using React, a popular JavaScript library for building u
 
 Weather API: The application relies on a weather API to fetch accurate and current weather details for the specified city.
 
-Responsive Design: The app is designed to be responsive, ensuring a seamless experience across various devices and screen sizes.
